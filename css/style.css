@@ -1,5 +1,19 @@
 body {
-    background: ;
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Jacques Francois', serif;
+    font-family: 'Just Me Again Down Here', cursive;
+
+}
+
+* {
+    box-sizing: border-box;
+
+}
 
 
+.cantainer {
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
 }
